@@ -4,6 +4,9 @@ NoahGameFrame
 
 #####交流QQ群：341159815
 
+#####Client binary file:https://github.com/ketoo/NFClient
+
+
 ##What is it?
 
 NF is a lightweight, fast, scalable, distributed plugin framework.
