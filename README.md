@@ -111,9 +111,9 @@ How to build:
 
 * 5:add c++11 optional for every project of this solution
 
-* 6:build library: NFNet, NFCore, NFEventTriggerPlugin, NFKernelPlugin, Theron, libprotocolbuf[libprotocolbuf-lite], NFLogPlugin, NFPluginLoader
+* 6:prebuild library: NFNet, NFCore, NFMessageDefine, NFPluginLoader
 
-* 7:build all other plugin
+* 7:build all plugin
 
 * 8: run the binary file by trunk\_Out\Server\Debug\Run.sh
 
